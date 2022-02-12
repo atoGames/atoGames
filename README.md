@@ -1,4 +1,4 @@
-- 👋 # Hi, I’m Ali Muhammad
+- 👋 Hi, I’m `Ali Muhammad`
 - 👀 I’m interested in **Games development**
 - 🌱 I’m currently learning Shader and level design
 - 💞️ I’m looking to collaborate on Anything
