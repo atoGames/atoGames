@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ali Muhammad
-- 👀 I’m interested in Games development
+- 👋 # Hi, I’m Ali Muhammad
+- 👀 I’m interested in **Games development**
 - 🌱 I’m currently learning Shader and level design
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me twitter.com/_atoGames or ali.alhilali1371@gmail.com
+- 📫 How to reach me [Twitter](https://twitter.com/_atoGames) or ali.alhilali1371@gmail.com
 
 <!---
 atoGames/atoGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
