@@ -1,12 +1,9 @@
 
 <h1 align="center">Hi there <img src="/Assets/Hi.gif" width="40px">, I'm Ali Muhammad</h1> 
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
+ <b align="center"></b> <br>
 - My name is Ali and I'm from Saudi Arabia
 - I’m a game developer .
-- I'm passionate about game development, Shaders.
 - I'm looking to collaborate on any projects in game development.
 - Ask me about game development .
  
