@@ -17,7 +17,7 @@
  <br>
  
 <a href="https://twitter.com/_atoGames">
-  <img  alt="ato games Twitter" width="35px" src="https://github.com/atoGames/atoGames/blob/main/Assets/linkedin.svg" />
+  <img  alt="ato games Twitter" width="35px" src="/Assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ali-muhammed-alhilali/">
   <img  alt="ato games Linkdein" width="35px" src="linkedin.svg" />
