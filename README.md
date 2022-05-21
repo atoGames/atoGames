@@ -1,7 +1,36 @@
-- 👋 Hi, I’m `Ali Muhammad`
-- 📫 How to reach me [Twitter](https://twitter.com/_atoGames) or [Email](ali.alhilali1371@gmail.com)
 
-<!---
-atoGames/atoGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there <img src="/Assets/Hi.gif" width="40px">, I'm Ali Muhammad</h1> 
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I'm from Florida
+- I’m a game developer .
+- I'm passionate about game development, Shaders.
+- I'm looking to collaborate on any projects in game development.
+- Ask me about game development .
+
+<br>
+ 
+
+<h2 align="center">CONTACT ME:
+ 
+<a href="https://twitter.com/_atoGames">
+  <img  alt="ato games Twitter" width="35px" src="/Assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ali-muhammed-alhilali/">
+  <img  alt="ato games Linkdein" width="35px" src="linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_atogames/">
+  <img  alt="ato games instagram" width="35px" src="/Assets/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCgTRPkYabMbTAlBhUxIVFEg">
+  <img alt="ato games youtube" width="35px" src="/Assets/youtube.svg" />
+</a>
+  </h2>
+  </ br> 
+
+**I am Into ,**
+**GAME DEVELOPMENT ,  UI/UX , CONTENT**
+
+<br />
