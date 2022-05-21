@@ -20,7 +20,7 @@
   <img  alt="ato games Twitter" width="35px" src="/Assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ali-muhammed-alhilali/">
-  <img  alt="ato games Linkdein" width="35px" src="linkedin.svg" />
+  <img  alt="ato games Linkdein" width="35px" src="/Assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_atogames/">
   <img  alt="ato games instagram" width="35px" src="/Assets/instagram.svg" />
